@@ -1,0 +1,6 @@
+{
+  "name": "React Vite Web App",
+  "description": "Modern React and Vite application with Tailwind CSS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
